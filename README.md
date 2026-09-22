@@ -1,5 +1,5 @@
 # Fundamentos de Inteligencia Artificial
-#Edgar Gonzalez Lezama
+# Edgar Gonzalez Lezama
 
 Repositorio destinado al desarrollo y entrega de las actividades prácticas de la materia *Fundamentos de Inteligencia Artificial*.
 
